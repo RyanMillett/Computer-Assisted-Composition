@@ -1,0 +1,4 @@
+; OM File Header - Saved 2021/11/28 17:39:30
+; (6.2 :patc (om-make-point 118 10) (om-make-point 351 113) (om-make-point 879 708) "" 183 0 "2021/11/28 17:21:04" "2021/11/28 17:39:30")
+; End File Header
+(in-package :om)(load-lib-for (quote nil))(setf *om-current-persistent* (om-load-patch1 "Patch" (quote nil) (quote nil) nil 6.2))
